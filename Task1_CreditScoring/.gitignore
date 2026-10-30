@@ -1,0 +1,9 @@
+# Dataset (Kaggle "Give Me Some Credit" – download it yourself, see README)
+data/
+
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
